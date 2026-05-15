@@ -1,0 +1,79 @@
+[
+  {
+    "id": "bmtc-500d",
+    "number": "500-D",
+    "name": "Central Silk Board to Hebbal",
+    "departureTime": "07:30 AM",
+    "arrivalTime": "09:15 AM",
+    "stops": [
+      "Central Silk Board",
+      "HSR Layout",
+      "Agara Junction",
+      "Bellandur",
+      "Marathahalli Bridge",
+      "Kalyan Nagar",
+      "Hebbal"
+    ],
+    "geofenceCenterLat": 12.9554,
+    "geofenceCenterLng": 77.6834,
+    "geofenceRadiusMeters": 25000,
+    "predictionReason": "Peak morning traffic near IT corridors."
+  },
+  {
+    "id": "bmtc-335e",
+    "number": "335-E",
+    "name": "Majestic to Kadugodi",
+    "departureTime": "08:00 AM",
+    "arrivalTime": "09:40 AM",
+    "stops": [
+      "Kempegowda Bus Station (Majestic)",
+      "Corporation",
+      "Domlur",
+      "HAL Main Gate",
+      "Marathahalli",
+      "Whitefield TTMC",
+      "Kadugodi"
+    ],
+    "geofenceCenterLat": 12.9716,
+    "geofenceCenterLng": 77.5946,
+    "geofenceRadiusMeters": 25000,
+    "predictionReason": "High volume of commuters heading to Whitefield."
+  },
+  {
+    "id": "bmtc-kias8",
+    "number": "KIAS-8",
+    "name": "Kempegowda Int. Airport to Electronic City",
+    "departureTime": "10:00 AM",
+    "arrivalTime": "12:30 PM",
+    "stops": [
+      "KIAL",
+      "Hebbal",
+      "Mekhri Circle",
+      "Shantinagar TTMC",
+      "Silk Board",
+      "Electronic City Wipro Gate"
+    ],
+    "geofenceCenterLat": 13.1986,
+    "geofenceCenterLng": 77.7066,
+    "geofenceRadiusMeters": 50000,
+    "predictionReason": "Vayu Vajra route. Expect moderate seating."
+  },
+  {
+    "id": "bmtc-201",
+    "number": "201",
+    "name": "Srinagar to Domlur",
+    "departureTime": "09:00 AM",
+    "arrivalTime": "10:10 AM",
+    "stops": [
+      "Srinagar",
+      "Banashankari",
+      "Jayanagar 4th Block",
+      "Koramangala Water Tank",
+      "Domlur TTMC"
+    ],
+    "geofenceCenterLat": 12.9345,
+    "geofenceCenterLng": 77.5843,
+    "geofenceRadiusMeters": 20000,
+    "predictionReason": "Consistent crowd across residential areas."
+  }
+]

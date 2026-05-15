@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451513828928",
+    "project_id": "vidyarthi-bus-8e4a1",
+    "storage_bucket": "vidyarthi-bus-8e4a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451513828928:android:ea2acc114e19e46a2481a5",
+        "android_client_info": {
+          "package_name": "com.vidyarthibus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0etyp2fx_3MTooqW5RvVBwr_zWwgYuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

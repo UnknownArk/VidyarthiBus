@@ -1,0 +1,8 @@
+<resources>
+    <color name="primary_blue">#1E88E5</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="status_empty">#2E7D32</color>
+    <color name="status_seated">#F9A825</color>
+    <color name="status_full">#C62828</color>
+    <color name="status_unknown">#757575</color>
+</resources>
